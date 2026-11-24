@@ -1,4 +1,4 @@
-<img width="1200" height="360" alt="Belal Ahmed: Teaching machines to see. Animated neural network." src="https://github.com/user-attachments/assets/2630f9cf-23d2-41a5-bfcb-14bce8e4c46f" />
+<img width="1200" height="300" alt="Belal Ahmed: Computer Vision, Machine Learning, Python. Animated contribution grid." src="https://github.com/user-attachments/assets/16196df7-353b-42b0-907c-0367e2ed2f1a" />
 
 # Hi there, I'm Belal Ahmed 👋
 
@@ -17,13 +17,13 @@
 - 📜 Completed the Huawei HCIA-AI V4.0 course
 - 🎓 Trained in AI programs with DEPI and MCIT (Egypt's Ministry of Communications and Information Technology)
 
-<img width="1200" height="160" alt="Skills: Python, PyTorch, TensorFlow, OpenCV, Scikit-learn. Animated waves." src="https://github.com/user-attachments/assets/6b892680-e477-462e-8620-8984e19282e0" />
+<img width="1200" height="160" alt="Skills and Tools: Python, PyTorch, TensorFlow, OpenCV, Scikit-learn. Animated contribution grid." src="https://github.com/user-attachments/assets/e9854cdc-6069-41e1-8488-5c949156bfcc" />
 
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,git,github,vscode)](https://skillicons.dev)
 
-<img width="1200" height="160" alt="Selected projects: Skin Cancer Classification and License Plate Recognition. Animated waves." src="https://github.com/user-attachments/assets/6064585e-e1cd-42e0-a83d-d7bb02b8f706" />
+<img width="1200" height="160" alt="Projects: Skin Cancer Classification and License Plate Recognition. Animated contribution grid." src="https://github.com/user-attachments/assets/b79d8612-6ff5-4ce3-85a0-19fb317434c3" />
 
 ## 🚀 Featured Projects
 
@@ -35,3 +35,4 @@
 ## 📫 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Belal%20Ahmed-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belal-ahmed-167b9b254)
+
